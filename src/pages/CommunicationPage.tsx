@@ -18,7 +18,7 @@ import {
 const conversationScenarios = {
   approval: [
     {
-      message: "Good morning! This is ClaimsFlow AI from City General Hospital.",
+      message: "Good morning! This is ClaimBridge from City General Hospital.",
       time: "10:00 AM",
       isOutgoing: true,
     },
@@ -233,7 +233,7 @@ const CommunicationPage = () => {
                         <MessageSquare className="w-5 h-5 text-primary-foreground" />
                       </div>
                       <div>
-                        <h4 className="font-semibold text-foreground text-sm">ClaimsFlow AI</h4>
+                        <h4 className="font-semibold text-foreground text-sm">ClaimBridge</h4>
                         <p className="text-[10px] text-success flex items-center gap-1">
                           <span className="w-1.5 h-1.5 rounded-full bg-success animate-pulse" />
                           Online - Instant responses
