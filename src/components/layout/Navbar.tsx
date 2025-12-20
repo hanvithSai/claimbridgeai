@@ -21,7 +21,7 @@ export const Navbar = () => {
             <div className="w-8 h-8 rounded-lg bg-gradient-hero flex items-center justify-center">
               <Activity className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="font-semibold text-foreground">ClaimsFlow AI</span>
+            <span className="font-semibold text-foreground">ClaimBridge</span>
           </Link>
 
           <div className="hidden md:flex items-center gap-1">
